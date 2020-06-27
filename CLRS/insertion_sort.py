@@ -30,6 +30,5 @@ def insertionSort(arr):
     return arr
 
 arr = [np.random.randint(1,1000) for _ in range(50000)]
-
 insertionSort(arr)
 # print(insertionSort(arr))
