@@ -4,7 +4,7 @@ import time
 
 def forTime():
     start = time.perf_counter()
-    arr = [np.random.randint(1,1000) for _ in range(50000)]
+    arr = [np.random.randint(1,1000) for _ in range(500000)]
     def mergeSort(arr):
         if len(arr) >1:
             mid = len(arr)//2 # Finding the mid of the array
@@ -38,6 +38,6 @@ def forTime():
                 k+= 1
         return arr
     stop = time.perf_counter()
-    print(f"Insertion sort with range 50000 took {stop - start:0.4f} seconds")
+    print(f"Merge sort with range 500000 took {stop - start:0.4f} seconds")
 
 forTime()
