@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    cout << "Hello world \n";
     int numberOfPods, peasPerPod, totalPeas;
     cout << "Press return after entering a number. \n";
     cout << "Enter the number of pods: \n";
@@ -19,5 +20,6 @@ int main()
     cout << "you have ";
     cout << totalPeas;
     cout << " peas in al the pods.\n";
+    cout << " Good bye world.";
     return 0;
 }
