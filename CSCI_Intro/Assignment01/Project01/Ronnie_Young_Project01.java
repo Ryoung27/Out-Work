@@ -39,5 +39,27 @@ public class Ronnie_Young_Project01
         System.out.println("Hello,World!");
 
         System.out.println("This is my first Java Program");
+
+
+
+        System.out.println("Java " + 1 + 2 + 3);
+        System.out.println((char)4);
+        System.out.println("peter".compareToIgnoreCase("Peter"));
+
+        char c = 'd';
+        System.out.println(c);
+
+        System.out.println(Math.sqrt(4));
+
+        System.out.println("No pain,\n\t no gain.");
+
+        int x = 2;
+
+        if(x % 2 == 0){
+            System.out.println("EVEN");
+        }
+        else{
+            System.out.println("ODD");
+        }
     }
 }

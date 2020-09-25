@@ -1,0 +1,1 @@
+            // System.out.println("  " + i + "        $" + df.format(monthlyPayment) +  "            $" + df.format(totalInterest)  + "               "+ df.format(totalOwed)+ "         $" +df.format(principlePayment) + "                  $" +df.format(interestPayment));
