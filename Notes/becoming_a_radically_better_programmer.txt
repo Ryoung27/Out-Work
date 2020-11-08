@@ -4,5 +4,32 @@ Becoming a Dramatically Better Programmer: Henry Stanley.
 
 What does getting dramatically better look like?
 -Learning Skills Directly
-	Ex: Why would you learn Haskell and Go if you don't use them in your daily work?
-	Ans: Knowledge Compunds, while Haskell and Go may not directly impact your work you can learn to be a better programmer by understanding them. Knowledge does not exist in a vaccum.
+	-Picking Skills:
+		Ex: Why would you learn Haskell and Go if you don't use them in your daily work?
+		Ans: Knowledge Compunds, while Haskell and Go may not directly impact your work you can learn to be a better programmer by understanding them. Knowledge does not exist in a vaccum.
+		-Pick nodes on the knowledge graph that are highly connected to nodes you use routinely.
+		-Improve highly general skills.
+	-Known Unknowns:
+		-You create a map of things you have learned and things you have not learned along the way.
+		- Expand this by reading around subjects, and working with experts.
+
+-Learning meta-skills
+	-How to Learn; Deliberate Practice
+		-Evaluate the bet learning methods for you.
+		-Figuring out how best to do deliberate practice in your field.
+		-Challenge yourself, this will be painful.
+		-Do things that challenge you and give you feedback.
+			*You need a feedback loop.
+	-Identifying Common Mistakes
+		"This is where success leaks out."
+		"https://www.raptitude.com/2018/05/where-success-leaks/"
+		*Identify and eliminate your huge blunders. This is the main route to success, for little effort you get a lot of reward.
+		*Be introspective, figure out your issues, and fix them.
+	-Deep Work
+		"One of the most important skills to learn as a knowledge worker"
+		-Things this can give you:
+			*A longer attention span
+			*Better self awareness
+		-It takes roughly 30 hours to understand something enough to decided weather it is for you or not.
+		- Start viewing will power as a resource that can be depleted.
+		*Stop wasting time on the trivial.
