@@ -1,6 +1,7 @@
 11-08-20
 
 Becoming a Dramatically Better Programmer: Henry Stanley.
+https://recurse.henrystanley.com/post/better/#deep-work
 
 What does getting dramatically better look like?
 -Learning Skills Directly
