@@ -1,0 +1,8 @@
+11-08-20
+
+Becoming a Dramatically Better Programmer: Henry Stanley.
+
+What does getting dramatically better look like?
+-Learning Skills Directly
+	Ex: Why would you learn Haskell and Go if you don't use them in your daily work?
+	Ans: Knowledge Compunds, while Haskell and Go may not directly impact your work you can learn to be a better programmer by understanding them. Knowledge does not exist in a vaccum.
