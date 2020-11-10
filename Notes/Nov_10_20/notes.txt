@@ -1,0 +1,23 @@
+-Neria
+	-Helped Neria find the versions of everything we use.
+	-Spoke with Reed about issues
+-API's
+	-3 tier web app
+		-DB behind private subnet
+		-Back-end behind public subnet
+		-Front-end behind public subnet
+	-2 tier web app
+		-DB behind private subnet
+		-Back-end behind private subnet
+		-Front-end behind public subnet
+
+	-To develop API's robustly you need to understand that both the front and back end needs to handle the business logic. Ours does not do that too well. This is common with small start up's because it's a big commitment up front, but if they take off it becomes a liability.
+-Test
+	-$$hashkeys, used by angular to track object changes.
+	-Not important to track
+-Terms not sticking
+	-Caused by logic on API-endpoint, updated.
+-Brew versions
+	-You can use brew to check the verisions of things you've installed on your computer.
+-Regression Test
+	-Writing a test for something already in production.
