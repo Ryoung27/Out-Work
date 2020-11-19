@@ -6,8 +6,9 @@
     class="btn btn-pimary" [disabled]="!allowNewServer" (click)="onCreateServer()">
     Add Server
 </button>
-<p>{{ serverCreationStatus}}</p>
+<p *ngIf="serverCreated">Server was created {{ serverName }}</p>
+<!-- <p>{{ serverCreationStatus}}</p> -->
 <!-- <p [innerText]="allowNewServer"></p> -->
-<app-server></app-server>
-<app-server></app-server>
+<app-server *ngFor="let server of servers"></app-server>
+<!-- <app-server></app-server> -->
 
